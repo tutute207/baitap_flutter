@@ -5,4 +5,4 @@
 các chức năng chính : 1 . Thêm thong tin
 2 . Sửa thông tin
 3 . Xóa thông tin
-4 . tìm kiếm thông tinq
+4 . tìm kiếm thông tin

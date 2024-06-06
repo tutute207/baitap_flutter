@@ -84,7 +84,7 @@ class _SampleItemDetailsViewState extends State<SampleItemDetailsView> {
       builder: (BuildContext context) {
         return AlertDialog(
           title: const Text("Xác nhận xóa"),
-          content: const Text("Bạn có chắc muốn xóa mục này"),
+          content: const Text("Bạn có chắc muốn xóa mục này ?"),
           actions: [
             TextButton(
               onPressed: () {
